@@ -1,0 +1,120 @@
+Baboon: Mandril, Babuíno, Macaco
+Back: Parte traseira, Atrás, Regressar
+Backward: Para trás, Retrógrado, Inverso
+Bad: Ruim, Mau, Desfavorável
+Baggage: Bagagem, Carga, Equipagem
+Bail: Fiança, Caução, Garantia
+Baker: Padeiro, Confeiteiro, Fabricante de pães
+Baking: Assar, Cozinhar, Panificação
+Balance: Equilíbrio, Saldo, Balanço
+Bald: Careca, Liso, Despido
+Ball: Bola, Esfera, Festa
+Banish: Expulsar, Banir, Exilar
+Bark: Casca, Latido, Ladrar
+Bar: Barra, Bar, Barrar
+Bare: Nu, Despido, Simples
+Bargain: Negócio, Oferta, Pechincha
+Bash: Atacar, Golpear, Criticar
+Basic: Básico, Elementar, Fundamental
+Bask: Banhar-se, Expor-se ao sol, Apreciar
+Battle: Batalha, Luta, Conflito
+Bay: Baía, Golfo, Baía de mar
+Be: Ser, Estar, Haver
+Bead: Conta, Pérola, Esfera
+Beak: Bico, Bico de ave, Ponta
+Beam: Feixe, Viga, Raiar
+Bear: Urso, Suportar, Carregar
+Beast: Fera, Besta, Animal
+Beat: Bater, Vencer, Ritmo
+Beautiful: Bonito, Belo, Encantador
+Befriend: Fazer amizade, Amparar, Ser amigável
+Before: Antes, Anterior, Precedente
+Began: Começou, Iniciou, Teve início
+Begin: Começar, Iniciar, Dar início
+Behead: Decapitar, Cortar a cabeça, Descapitalizar
+Behold: Contemplar, Ver, Observar
+Belief: Crença, Fé, Convicção
+Believe: Acreditar, Crer, Considerar
+Bell: Sino, Campainha, Sininho
+Benevolent: Benevolente, Generoso, Bondoso
+Benevolence: Benevolência, Generosidade, Bondade
+Benefit: Benefício, Vantagem, Ganho
+Benign: Benigno, Favorável, Amigo
+Beside: Ao lado de, Junto a, Além de
+Best: Melhor, Ótimo, Superior
+Bet: Apostar, Aposta, Jogar
+Better: Melhor, Superior, Mais bem
+Between: Entre, No meio de, No intervalo
+Beware: Cuidar, Cuidado, Atenção
+Beyond: Além, Para além de, Fora de
+Bias: Tendência, Preconceito, Viés
+Bicycle: Bicicleta, Ciclismo, Bike
+Bid: Oferecer, Lançar, Aposta
+Big: Grande, Enorme, Importante
+Bill: Conta, Fatura, Nota
+Bind: Amarrar, Atar, Vincular
+Bitter: Amargo, Azedo, Ressentido
+Black: Preto, Escuro, Sombrio
+Blame: Culpa, Acusar, Responsabilizar
+Blank: Vazio, Em branco, Nulo
+Blaze: Chama, Fogo, Incêndio
+Bleak: Desolado, Sombrio, Desesperançoso
+Bleed: Sangrar, Derramar sangue, Perder sangue
+Bless: Abençoar, Bendizer, Graçar
+Blind: Cego, Surdo, Cegueira
+Bliss: Felicidade, Êxtase, Prazer
+Block: Bloco, Obstáculo, Bloquear
+Blood: Sangue, Vitalidade, Raça
+Blow: Sopro, Golpe, Assoprar
+Bluff: Blefe, Enganar, Truque
+Blunder: Erro, Desatino, Engano
+Blush: Corar, Envergonhar-se, Ruborizar
+Board: Tábua, Quadro, Placa
+Boat: Barco, Embarcação, Bote
+Body: Corpo, Corpo humano, Organização
+Bold: Ousado, Corajoso, Negrito
+Bomb: Bomba, Explosivo, Bombardeio
+Bone: Osso, Ossada, Substância óssea
+Book: Livro, Reservar, Agendar
+Boost: Impulsionar, Aumentar, Elevar
+Boot: Bota, Arranque, Inicialização
+Border: Fronteira, Limite, Margem
+Born: Nascido, Origem, Vindo ao mundo
+Borrow: Pedir emprestado, Tomar emprestado, Utilizar
+Boss: Chefe, Patrão, Líder
+Both: Ambos, Os dois, Ambos os lados
+Bottom: Fundo, Parte inferior, Base
+Bounce: Saltar, Rebotar, Pular
+Bound: Bound (determinado), Limite, Fronteira
+Bow: Arco, Curvar-se, Inclinar
+Box: Caixa, Lutar, Embalar
+Boy: Menino, Rapaz, Filho
+Brain: Cérebro, Mente, Intelecto
+Brave: Corajoso, Audaz, Valente
+Break: Quebrar, Pausa, Romper
+Breathe: Respirar, Exalar, Inalar
+Breed: Raça, Procriar, Reproduzir
+Breeze: Brisa, Ventania, Vento leve
+Brick: Tijolo, Bloco, Ladrilho
+Bridge: Ponte, Conectar, Ligação
+Brief: Breve, Resumo, Conciso
+Bright: Brilhante, Luminoso, Inteligente
+Brilliant: Brilhante, Excelente, Genial
+Bring: Trazer, Levar, Carregar
+British: Britânico, Inglês, do Reino Unido
+Broadcast: Transmitir, Difundir, Emissão
+Brochure: Folheto, Brochura, Panfleto
+Brother: Irmão, Irmão religioso, Companheiro
+Brow: Sobrancelha, Frente, Testa
+Brown: Marrom, Castanho, Cor de terra
+Brush: Escova, Pincel, Pente
+Bubble: Bolha, Bolhinhas, Efervescência
+Bucket: Balde, Cesto, Pipo
+Buddy: Amigo, Companheiro, Parceiro
+Build: Construir, Criar, Edificar
+Bury: Enterrar, Sepultar, Ocultar
+Busy: Ocupado, Agitado, Movimentado
+But: Mas, Porém, Porém que
+Button: Botão, Chave, Fecho
+Buy: Comprar, Adquirir, Obter
+Byte: Byte, Unidade de dados, Quantidade de memória

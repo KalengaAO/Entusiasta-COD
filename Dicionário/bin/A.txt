@@ -1,0 +1,123 @@
+About: sobre, aproximadamente
+Ability: habilidade
+Able: capaz
+Above: acima
+Absence: ausência
+Absolute: absoluto
+Abstract: abstrato
+Abundant: abundante
+Accept: aceitar
+Access: acesso
+Accident: acidente
+Account: conta
+Achieve: alcançar, realizar
+Acquire: adquirir
+Act: agir, ato
+Action: ação
+Active: ativo
+Actor: ator
+Actual: real, verdadeiro
+Adapt: adaptar
+Add: adicionar
+Address: endereço
+Admire: admirar
+Admit: admitir
+Adult: adulto
+Advance: avançar, avanço
+Advantage: vantagem
+Adventure: aventura
+Advertise: anunciar
+Advice: conselho
+Affect: afetar
+Afraid: commedo
+After: depois
+Afternoon: tarde
+Again: novamente
+Against: contra
+Age: idade
+Agree: concordar
+Ahead: àfrente
+Aim: objetivo, mirar
+Air: ar
+Airplane: avião
+Airport: aeroporto
+Alarm: alarme
+Album: álbum
+Alcohol: álcool
+Alive: vivo
+All: tudo, todos
+Allow: permitir
+Almost: quase
+Alone: sozinho
+Along: aolongo
+Already: já
+Also: também
+Although: embora
+Always: sempre
+Amazing: incrível
+Ambition: ambição
+Amount: quantidade
+Amuse: divertir
+Analyze: analisar
+Ancient: antigo
+Anger: raiva
+Angle: ângulo
+Animal: animal
+Announce: anunciar
+Annual: anual
+Another: outro
+Answer: resposta, responder
+Anxiety: ansiedade
+Any: qualquer, algum
+Anybody: alguém
+Anyone: qualquerum
+Anything: qualquercoisa
+Anywhere: emqualquerlugar
+Apart: separado
+Apartment: apartamento
+Apologize: pedirdesculpa
+Appear: aparecer
+Apple: maçã
+Application: aplicação
+Apply: aplicar
+Appoint: nomear
+Appreciate: apreciar
+Approach: abordagem, aproximar-se
+Approve: aprovar
+Area: área
+Argue: argumentar
+Arm: braço
+Army: exército
+Around: aoredor
+Arrange: organizar
+Arrest: prender
+Archive: documento,  depositos de documentos
+Arrive: chegar
+Art: arte
+Article: artigo
+Artist: artista
+As: como
+Ask: perguntar, pedir
+Aspect: aspecto
+Assume: assumir
+Assure: assegurar
+Astound: surpreender
+Astronomy: astronomia
+Athlete: atleta
+Atmosphere: atmosfera
+Attach: anexar
+Attack: ataque, atacar
+Attempt: tentativa, tentar
+Attend: comparecer
+Attract: atrair
+Audience: audiência
+Author: autor
+Automatic: automático
+Available: disponível
+Average: média, mediano
+Avoid: evitar
+Award: prêmio
+Aware: consciente
+Awful: horrível
+
+
