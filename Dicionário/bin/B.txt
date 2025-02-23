@@ -48,6 +48,7 @@ Between: Entre, No meio de, No intervalo
 Beware: Cuidar, Cuidado, Atenção
 Beyond: Além, Para além de, Fora de
 Bias: Tendência, Preconceito, Viés
+Birthday: aniversário, Data de nascimento, nascimento
 Bicycle: Bicicleta, Ciclismo, Bike
 Bid: Oferecer, Lançar, Aposta
 Big: Grande, Enorme, Importante
@@ -73,6 +74,7 @@ Board: Tábua, Quadro, Placa
 Boat: Barco, Embarcação, Bote
 Body: Corpo, Corpo humano, Organização
 Bold: Ousado, Corajoso, Negrito
+Bolt: Parafuso, Raio, Relâmpago, Disparo rápido (em armas de fogo)
 Bomb: Bomba, Explosivo, Bombardeio
 Bone: Osso, Ossada, Substância óssea
 Book: Livro, Reservar, Agendar
@@ -83,7 +85,6 @@ Born: Nascido, Origem, Vindo ao mundo
 Borrow: Pedir emprestado, Tomar emprestado, Utilizar
 Boss: Chefe, Patrão, Líder
 Both: Ambos, Os dois, Ambos os lados
-Bottom: Fundo, Parte inferior, Base
 Bounce: Saltar, Rebotar, Pular
 Bound: Bound (determinado), Limite, Fronteira
 Bow: Arco, Curvar-se, Inclinar

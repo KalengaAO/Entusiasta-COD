@@ -12,4 +12,5 @@ void	print_meaning(int fd)
 		ft_putchar(*buffer);
 	ft_putchar(10);
 	free(buffer);
+	close(fd);
 }

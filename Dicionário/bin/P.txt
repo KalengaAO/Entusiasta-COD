@@ -1,0 +1,379 @@
+Pace: Ritmo, Passo, Velocidade
+
+Pack: Pacote, Embalagem, Mochila
+
+Page: Página, Folha, Assistente
+
+Pain: Dor, Sofrimento, Angústia
+
+Paint: Tinta, Pintura, Verniz
+
+Pair: Par, Dupla, Casal
+
+Palace: Palácio, Castelo, Mansão
+
+Pale: Pálido, Claro, Desbotado
+
+Palm: Palma, Dendê, Palmeira
+
+Pan: Panela, Frigideira, Recipiente
+
+Panel: Painel, Placa, Quadro
+
+Panic: Pânico, Medo, Terror
+
+Paper: Papel, Documento, Folha
+
+Parade: Desfile, Parada, Exibição
+
+Parent: Pai, Mãe, Responsável
+
+Park: Parque, Estacionamento, Jardim
+
+Part: Parte, Pedaço, Componente
+
+Party: Festa, Grupo, Partido
+
+Pass: Passagem, Passe, Sucesso
+
+Past: Passado, Histórico, Anterior
+
+Path: Caminho, Trilha, Rota
+
+Patient: Paciente, Doente, Tolerante
+
+Pattern: Padrão, Modelo, Estampa
+
+Pause: Pausa, Intervalo, Suspensão
+
+Pay: Pagar, Remunerar, Compensar
+
+Peace: Paz, Tranquilidade, Harmonia
+
+Peak: Pico, Ápice, Cume
+
+Pen: Caneta, Estábulo, Cercado
+
+Pencil: Lápis, Grafite, Crayon
+
+People: Pessoas, Gente, Público
+
+Perfect: Perfeito, Completo, Ideal
+
+Perform: Executar, Realizar, Apresentar
+
+Period: Período, Fase, Ciclo
+
+Permit: Permitir, Autorizar, Conceder
+
+Person: Pessoa, Indivíduo, Ser
+
+Pet: Animal de estimação, Mascote, Querido
+
+Phone: Telefone, Celular, Aparelho
+
+Photo: Foto, Imagem, Fotografia
+
+Phrase: Frase, Expressão, Locução
+
+Piece: Peça, Pedaço, Parte
+
+Pig: Porco, Suíno, Leitão
+
+Pilot: Piloto, Condutor, Aviador
+
+Pin: Alfinete, Pino, Broche
+
+Pipe: Cano, Tubo, Cachimbo
+
+Place: Lugar, Local, Posição
+
+Plan: Plano, Projeto, Estratégia
+
+Plane: Avião, Aeronave, Plano
+
+Plant: Planta, Fábrica, Vegetal
+
+Plastic: Plástico, Sintético, Flexível
+
+Plate: Prato, Placa, Bandeja
+
+Play: Jogar, Brincar, Atuar
+
+Player: Jogador, Participante, Reprodutor
+
+Please: Por favor, Agradar, Satisfazer
+
+Pleasure: Prazer, Satisfação, Delícia
+
+Point: Ponto, Direção, Argumento
+
+Police: Polícia, Agente, Segurança
+
+Policy: Política, Diretriz, Regra
+
+Pool: Piscina, Poço, Coletivo
+
+Poor: Pobre, Fraco, Insuficiente
+
+Popular: Popular, Famoso, Conhecido
+
+Position: Posição, Cargo, Localização
+
+Positive: Positivo, Otimista, Afirmativo
+
+Possess: Possuir, Ter, Dominar
+
+Possible: Possível, Realizável, Viável
+
+Post: Correio, Publicação, Poste
+
+Pot: Pote, Panela, Vaso
+
+Potato: Batata, Tubérculo, Inhame
+
+Power: Poder, Energia, Força
+
+Practice: Prática, Exercício, Treino
+
+Praise: Elogio, Louvor, Apreciação
+
+Pray: Rezar, Orar, Pedir
+
+Predict: Prever, Antecipar, Supor
+
+Prepare: Preparar, Organizar, Arrumar
+
+Present: Presente, Atual, Apresentar
+
+Press: Imprensa, Pressionar, Estampar
+
+Pressure: Pressão, Estresse, Força
+
+Pretty: Bonito, Atraente, Consideravelmente
+
+Price: Preço, Custo, Valor
+
+Pride: Orgulho, Satisfação, Vaidade
+
+Primary: Primário, Principal, Fundamental
+
+Prime: Principal, Primeiro, Essencial
+
+Prince: Príncipe, Herdeiro, Nobre
+
+Print: Imprimir, Publicar, Estampa
+
+Prison: Prisão, Cadeia, Confinamento
+
+Private: Privado, Pessoal, Reservado
+
+Prize: Prêmio, Troféu, Recompensa
+
+Problem: Problema, Questão, Dificuldade
+
+Process: Processo, Procedimento, Método
+
+Produce: Produzir, Criar, Gerar
+
+Product: Produto, Artigo, Resultado
+
+Program: Programa, Software, Plano
+
+Progress: Progresso, Avanço, Desenvolvimento
+
+Project: Projeto, Empreendimento, Tarefa
+
+Promise: Promessa, Compromisso, Garantia
+
+Promote: Promover, Divulgar, Apoiar
+
+Proof: Prova, Evidência, Confirmação
+
+Proper: Adequado, Correto, Apropriado
+
+Property: Propriedade, Bem, Terreno
+
+Protect: Proteger, Defender, Guardar
+
+Proud: Orgulhoso, Satisfeito, Altivo
+
+Prove: Provar, Demonstrar, Confirmar
+
+Provide: Fornecer, Prover, Disponibilizar
+
+Public: Público, Coletivo, Aberto
+
+Publish: Publicar, Divulgar, Editar
+
+Pull: Puxar, Arrastar, Atrair
+
+Pump: Bomba, Bombear, Inflar
+
+Punch: Soco, Golpe, Furador
+
+Pure: Puro, Limpo, Autêntico
+
+Purpose: Propósito, Objetivo, Finalidade
+
+Push: Empurrar, Impulsionar, Forçar
+
+Put: Colocar, Pôr, Posicionar
+
+Puzzle: Quebra-cabeça, Enigma, Desafio
+
+Pace: Ritmo, Passo, Andamento
+
+Pageant: Concurso, Espetáculo, Desfile
+
+Paintbrush: Pincel, Brocha, Escova
+
+Palace: Palácio, Castelo, Residência
+
+Pallet: Palete, Estrado, Plataforma
+
+Palmistry: Quiromancia, Leitura de mãos, Quirologia
+
+Panorama: Panorama, Vista, Paisagem
+
+Papaya: Mamão, Fruta, Carica
+
+Parade: Desfile, Parada, Exibição
+
+Paragraph: Parágrafo, Seção, Texto
+
+Parallel: Paralelo, Semelhante, Comparável
+
+Parrot: Papagaio, Ave, Imitador
+
+Partner: Parceiro, Sócio, Companheiro
+
+Party: Festa, Celebração, Reunião
+
+Passion: Paixão, Entusiasmo, Ardor
+
+Passport: Passaporte, Documento, Identificação
+
+Pasture: Pasto, Pradaria, Campo
+
+Patch: Remendo, Pedaço, Correção
+
+Pathway: Caminho, Trilha, Via
+
+Patient: Paciente, Tolerante, Doente
+
+Pattern: Padrão, Modelo, Desenho
+
+Pause: Pausa, Intervalo, Suspensão
+
+Pavilion: Pavilhão, Estrutura, Tenda
+
+Payment: Pagamento, Quitação, Compensação
+
+Peach: Pêssego, Fruta, Delicado
+
+Peak: Pico, Ápice, Cume
+
+Peanut: Amendoim, Leguminosa, Noz
+
+Pearl: Pérola, Joia, Tesouro
+
+Pedal: Pedal, Controle, Acelerador
+
+Penalty: Penalidade, Multa, Punição
+
+Pencil: Lápis, Instrumento, Grafite
+
+Penguin: Pinguim, Ave, Antártico
+
+Pepper: Pimenta, Condimento, Tempero
+
+Perfect: Perfeito, Ideal, Completo
+
+Perform: Realizar, Executar, Apresentar
+
+Period: Período, Fase, Ciclo
+
+Permit: Permitir, Autorizar, Conceder
+
+Person: Pessoa, Indivíduo, Ser
+
+Petal: Pétala, Flor, Fragmento
+
+Phantom: Fantasma, Aparição, Ilusão
+
+Philosophy: Filosofia, Pensamento, Reflexão
+
+Phoenix: Fênix, Ave mítica, Renascimento
+
+Photo: Foto, Imagem, Fotografia
+
+Phrase: Frase, Expressão, Locução
+
+Physical: Físico, Corporal, Material
+
+Piano: Piano, Instrumento, Teclado
+
+Picnic: Piquenique, Lanche, Reunião
+
+Picture: Imagem, Foto, Quadro
+
+Piece: Peça, Pedaço, Parte
+
+Pilot: Piloto, Aviador, Condutor
+
+Pioneer: Pioneiro, Desbravador, Inovador
+
+Pirate: Pirata, Saqueador, Corsário
+
+Planet: Planeta, Astro, Mundo
+
+Plastic: Plástico, Sintético, Flexível
+
+Platform: Plataforma, Base, Estrutura
+
+Player: Jogador, Participante, Reprodutor
+
+Pleasure: Prazer, Satisfação, Alegria
+
+Pledge: Compromisso, Promessa, Garantia
+
+Plot: Enredo, Trama, Conspiração
+
+Pocket: Bolso, Compartimento, Pequeno
+
+Poetry: Poesia, Poema, Verso
+
+Point: Ponto, Direção, Propósito
+
+Poison: Veneno, Tóxico, Substância
+
+Police: Polícia, Agente, Segurança
+
+Policy: Política, Diretriz, Norma
+
+Pool: Piscina, Coletivo, Poço
+
+Poor: Pobre, Necessitado, Frágil
+
+Popular: Popular, Conhecido, Famoso
+
+Position: Posição, Cargo, Colocação
+
+Positive: Positivo, Afirmativo, Otimista
+
+Possession: Posse, Propriedade, Domínio
+
+Poster: Cartaz, Pôster, Anúncio
+
+Potato: Batata, Tubérculo, Legume
+
+Potential: Potencial, Capacidade, Possível
+
+Power: Poder, Energia, Força
+
+Practice: Prática, Exercício, Treino
+
+Praise: Elogio, Louvor, Reconhecimento
+
+Prayer: Oração, Reza, Sú

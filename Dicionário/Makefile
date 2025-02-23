@@ -18,7 +18,7 @@ INC_VAR = $(INC)/arquivo.h \
 
 OBJ_VAR = $(SRC_VAR:$(SRC)/%.c=$(OBJ)/%.o)
 FLAGS = -Wall -Wextra -Werror -I$(INC) -c
-CC = g++
+CC = gcc
 
 all: $(NAME_APP)
 

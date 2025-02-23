@@ -1,6 +1,7 @@
 #include "arquivo.h"
 #include "tools.h"
 #include <fcntl.h>
+#define		SIZE_EXT 5
 
 char	*ft_creat_name(char c)
 {
@@ -8,9 +9,11 @@ char	*ft_creat_name(char c)
 	char	*ext = ".txt";
 	char	*file;
 
-	if (!(file = (char *) malloc(sizeof(char) * 5)))
+	if (!(file = (char *) malloc(sizeof(char) * SIZE_EXT)))
 		return (0);
 	i = 0;
+	if (c >= 'a' && c <= 'z')
+			c -= 32;
 	file[i++] = c;
 
 	while (*ext)
@@ -29,7 +32,7 @@ int	open_archive(char file)
 
 	name_file = ft_creat_name(file);
 	fd = 0;
-	if (file >= 'A' && file <= 'Z')
+	if ((file >= 'A' && file <= 'Z') || (file >= 'a' && file <= 'z'))
 	{
 		fd = open(name_file, O_RDONLY);
 		if (fd == -1)

@@ -1,4 +1,3 @@
-About: sobre, aproximadamente
 Ability: habilidade
 Able: capaz
 Above: acima
@@ -66,16 +65,16 @@ Animal: animal
 Announce: anunciar
 Annual: anual
 Another: outro
-Answer: resposta, responder
+Answer: resposta, responder (resposta a alguma coisa)
 Anxiety: ansiedade
 Any: qualquer, algum
 Anybody: alguém
-Anyone: qualquerum
-Anything: qualquercoisa
-Anywhere: emqualquerlugar
+Anyone: qualquer um
+Anything: qualquer coisa
+Anywhere: em qualquer lugar
 Apart: separado
 Apartment: apartamento
-Apologize: pedirdesculpa
+Apologize: pedir desculpa
 Appear: aparecer
 Apple: maçã
 Application: aplicação
@@ -119,5 +118,153 @@ Avoid: evitar
 Award: prêmio
 Aware: consciente
 Awful: horrível
-
+Abacus : Ábaco, Conta
+Ability : Habilidade, Capacidade
+Able : Capaz, Hábil
+Aboard : A bordo, Embarcado
+About : Sobre, Acerca de
+Absentee : Ausente, Faltoso
+Absolutely : Absolutamente, Completamente
+Absorbing : Absorvente, Cativante
+Abundant : Abundante, Copioso
+Abyss : Abismo, Poço sem fundo
+Access : Acesso, Entrada
+Accessible : Acessível, Alcançável
+Acceleration : Aceleração, Incremento
+Acclaim : Aclamação, Louvor
+Accommodating : Acomodando, Atencioso
+Accomplished : Realizado, Concluído
+Accountant : Contador, Perito contábil
+Accurate : Preciso, Exato
+Achieve : Alcançar, Conquistar
+Achievement : Conquista, Realização
+Action : Ação, Atitude
+Activate : Ativar, Acionar
+Active : Ativo, Dinâmico
+Actor : Ator, Artista
+Actually : Na verdade, De fato
+Adaptable : Adaptável, Flexível
+Address : Endereço, Direção
+Adept : Adepto, Hábil
+Admirable : Admirável, Digno de admiração
+Admire : Admirar, Apreciar
+Admiring : Admirando, Apreciando
+Adorable : Adorável, Encantador
+Adroit : Hábil, Ágil
+Adult : Adulto, Maior de idade
+Adventurous : Aventureiro, Corajoso
+Aerodynamics : Aerodinâmica, Dinâmica dos fluidos
+Aesthetic : Estética, Artístico
+Affable : Afável, Amável
+Affection : Afeição, Carinho
+Affirm : Afirmar, Confirmar
+Afraid : Com medo, Assustado
+After : Depois, Após
+Afternoon : Tarde, Período da tarde
+Again : De novo, Novamente
+Age : Idade, Anos
+Aglow : Brilhante, Radiante
+Ago : Atrás, Passado
+Agreeable : Agradável, Aceitável
+Air : Ar, Atmosfera
+Airplane : Avião, Aeronave
+Airport : Aeroporto, Terminal aéreo
+Alarm clock : Despertador, Relógio despertador
+All : Todos, Tudo
+Allen wrench : Chave allen, Chave hexagonal
+Allergy : Alergia, Hipersensibilidade
+Ally : Aliado, Companheiro
+Alphabet : Alfabeto, Conjunto de letras
+Also : Também, Igualmente
+Altar : Altar, Mesa de oferendas
+Altitude : Altitude, Elevação
+Aluminum : Alumínio, Metal leve
+Always : Sempre, Constantemente
+Am : Sou, Estou
+Amazing : Incrível, Surpreendente
+Ambulance : Ambulância, Veículo de emergência
+American : Americano, Norte-americano
+Amiable : Amável, Simpático
+Amplify : Amplificar, Aumentar
+Amusing : Divertido, Engraçado
+Andromeda : Andrômeda, Galáxia
+Angelic : Angélico, Celestial
+Angle : Ângulo, Ponto de vista
+Angry : Nervoso, Irritado
+Animal : Animal, Ser vivo
+Animated : Animado, Vivido
+Announce : Anunciar, Divulgar
+Another : Outro, Mais um
+Answer : Responder, Resposta
+Any : Qualquer, Algum
+Anybody : Qualquer pessoa, Alguém
+Anymore : Não mais, De agora em diante
+Apartment : Apartamento, Unidade residencial
+Appealing : Atraente, Cativante
+Appreciation : Apreciação, Valorização
+April : Abril, Mês de abril
+Apron : Avental, Proteção
+Aquarium : Aquário, Viveiro aquático
+Architect : Arquiteto, Projetista
+Arctic : Ártico, Região polar
+Ardor : Ardor, Paixão
+Arm : Braço, Membro superior
+Armchair : Poltrona, Cadeira confortável
+Around : Em volta, Ao redor
+Arrival : Chegada, Vinda
+Arrive : Chegar, Atingir
+Arrogant : Arrogante, Presunçoso
+Arrow : Seta, Flecha
+Art Gallery : Galeria de arte, Museu de arte
+Article : Artigo, Matéria
+Artist : Artista, Criador
+Asia : Ásia, Continente asiático
+Aspiring : Aspirante, Ambicioso
+Assertive : Assertivo, Confiante
+Asteroid : Asteróide, Corpo celeste
+Astrophysics : Astrofísica, Física das estrelas
+Atlas : Atlas, Mapa
+Atmosphere : Atmosfera, Ambiente
+Attention : Atenção, Cuidado
+Attentive : Atento, Dedicado
+Attractive : Atraente, Charmoso
+Audience : Público, Espectadores
+Audio : Áudio, Som
+August : Agosto, Mês de agosto
+Auspicious : Auspicioso, Promissor
+Authentic : Autêntico, Genuíno
+Automobile : Automóvel, Carro
+Award : Prêmio, Distinção
+Away : Longe, Distante
+Awed : Admirados, Estonteados
+Awesome : Incrível, Espetacular
+Axe : Machado, Facão
+Ardvark : Porco formigueiro, Orycteropus afer
+Albatross : Albatroz, Grande ave marinha
+Alligator : Jacaré, Reptil
+Alpaca : Alpaca, Lhama pequena
+Anchovies : Anchovas, Peixes pequenos
+Ant : Formiga, Inseto social
+Anteater : Tamanduá, Animal insetívoro
+Antelope : Antílope, Mamífero ungulado
+Arctic Fox : Raposa ártica, Vulpes lagopus
+Armadillo : Tatu, Mamífero blindado
+Avocet : Alfaiate, Pássaro aquático
+Afghanistan : Afeganistão, País
+Albania : Albânia, País nos Balcãs
+Algeria : Argélia, País da África
+Andorra : Andorra, País nos Pirineus
+Angola : Angola, País africano
+Argentina : Argentina, País da América do Sul
+Armenia : Armênia, País da Ásia
+Australia : Austrália, Continente e país
+Austria : Áustria, País europeu
+Azerbaijan : Azerbaijão, País do Cáucaso
+Almond : Amêndoa, Semente comestível
+Apple : Maçã, Fruta
+Apricot : Damasco, Fruta
+Artichoke : Alcachofra, Vegetal
+Arugula : Rúcula, Folha verde
+Asparagus : Espargos, Vegetal
+Avocado : Abacate, Fruto verde
 
