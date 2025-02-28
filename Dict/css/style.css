@@ -1,0 +1,16 @@
+.meu_button:hover {
+    background:  #364100;
+    color: white;
+    font-size: 16px;
+    border-radius: 14px;
+    padding: 10px;
+}
+
+.meu_button:active {
+    background: #252500;
+}
+
+.janela
+{
+    background: #342800
+}

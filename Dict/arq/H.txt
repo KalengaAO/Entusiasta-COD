@@ -1,0 +1,152 @@
+Hired: Contratado, Empregado, Alugado
+Happy: Feliz, Alegre, Contente
+House: Casa, Lar, Residência
+Helicopter: Helicóptero, Avião helicoidal, Veículo aéreo
+Hammer: Martelo, Martelada, Ferramenta
+Happiness: Felicidade, Alegria, Bem-estar
+Heritage: Herança, Patrimônio, Legado
+Heart: Coração, Ânimo, Sede
+Heals: Curar, Restaurar, Recuperar-se,  Melhorar, Cicatrizar
+Height: Altura, Estatura, Crescimento
+Hug: Abraço, Apreço, Enlace
+Horizon: Horizonte, Limite, Extensão
+Holiday: Feriado, Festa, Dia livre
+Hope: Esperança, Ânimo, Desejo
+Human: Humano, Pessoa, Ser humano
+Hot: Quente, Aquecido, Caloroso
+Honest: Honesto, Íntegro, Sincero
+Health: Saúde, Bem-estar, Condição física
+Harmony: Harmonia, Concordância, Equilíbrio
+Hospital: Hospital, Clínica, Sanatório
+Habit: Hábito, Costume, Rotina
+Harbor: Porto, Ancoradouro, Refúgio
+Hard: Difícil, Duro, Pesado
+Hasty: Apresado, Rápido, Apressado
+Hero: Herói, Mestre, Campeão
+Hungry: Faminto, Com fome, Necessitado
+History: História, Passado, Crônica
+Honor: Honra, Dignidade, Respeito
+Hilarious: Hilário, Engraçado, Cômico
+Happen: Acontecer, Ocorre, Passar
+Hawk: Falcão, Águia, Predador
+Hatch: Eclosão, Nascer, Abrir
+Harmful: Prejudicial, Perigoso, Dano
+Heed: Atentar, Ouvir, Considerar
+Host: Anfitrião, Hospedeiro, Organizador
+Hedge: Cerca viva, Muro de plantas, Arbusto
+Halt: Parar, Interromper, Suspender
+Hop: Pular, Saltitar, Saltar
+Hunters: Caçadores, Pessoas que caçam, Pesquisadores
+Huddle: Agolpar, Concentrar, Arremessar
+Hurt: Ferir, Doler, Machucar
+Humor: Humor, Comédia, Caráter
+Haunt: Assombrar, Ameçar, Visitar
+Hesitate: Hesitar, Vacilar, Indecisão
+Hurdle: Obstáculo, Barreira, Dificuldade
+Hatch: Eclosão, Nascer, Abrir
+Highlight: Destaque, Ponto alto, Êxito
+Hit: acertar , bater, sucesso
+Hopeful: Esperançoso, Otimista, Confiante
+Hotdog: Cachorro-quente, Salsicha, Lanchar
+Hexagon: Hexágono, Seis lados, Figura geométrica
+Harm: Dano, Prejuízo, Perigo
+Hired: Contratado, Empregado, Alugado
+Happy: Feliz, Alegre, Contente
+House: Casa, Lar, Residência
+Helicopter: Helicóptero, Avião helicoidal, Veículo aéreo
+Hammer: Martelo, Martelada, Ferramenta
+Happiness: Felicidade, Alegria, Bem-estar
+Heritage: Herança, Patrimônio, Legado
+Heart: Coração, Ânimo, Sede
+Height: Altura, Estatura, Crescimento
+Hug: Abraço, Apreço, Enlace
+Horizon: Horizonte, Limite, Extensão
+Holiday: Feriado, Festa, Dia livre
+Hope: Esperança, Ânimo, Desejo
+Human: Humano, Pessoa, Ser humano
+Hot: Quente, Aquecido, Caloroso
+Honest: Honesto, Íntegro, Sincero
+Health: Saúde, Bem-estar, Condição física
+Harmony: Harmonia, Concordância, Equilíbrio
+Hospital: Hospital, Clínica, Sanatório
+Habit: Hábito, Costume, Rotina
+Harbor: Porto, Ancoradouro, Refúgio
+Hard: Difícil, Duro, Pesado
+Hasty: Apresado, Rápido, Apressado
+Hero: Herói, Mestre, Campeão
+Hungry: Faminto, Com fome, Necessitado
+History: História, Passado, Crônica
+Honor: Honra, Dignidade, Respeito
+Hilarious: Hilário, Engraçado, Cômico
+Happen: Acontecer, Ocorre, Passar
+Hawk: Falcão, Águia, Predador
+Hatch: Eclosão, Nascer, Abrir
+Harmful: Prejudicial, Perigoso, Dano
+Heed: Atentar, Ouvir, Considerar
+Host: Anfitrião, Hospedeiro, Organizador
+Hedge: Cerca viva, Muro de plantas, Arbusto
+Halt: Parar, Interromper, Suspender
+Hop: Pular, Saltitar, Saltar
+Hunters: Caçadores, Pessoas que caçam, Pesquisadores
+Huddle: Agolpar, Concentrar, Arremessar
+Hurt: Ferir, Doler, Machucar
+Humor: Humor, Comédia, Caráter
+Haunt: Assombrar, Ameçar, Visitar
+Hesitate: Hesitar, Vacilar, Indecisão
+Hurdle: Obstáculo, Barreira, Dificuldade
+Hatch: Eclosão, Nascer, Abrir
+Highlight: Destaque, Ponto alto, Êxito
+Hopeful: Esperançoso, Otimista, Confiante
+Hotdog: Cachorro-quente, Salsicha, Lanchar
+Hexagon: Hexágono, Seis lados, Figura geométrica
+Harm: Dano, Prejuízo, Perigo
+Hired: Contratado, Empregado, Alugado
+Happy: Feliz, Alegre, Contente
+House: Casa, Lar, Residência
+Helicopter: Helicóptero, Avião helicoidal, Veículo aéreo
+Hammer: Martelo, Martelada, Ferramenta
+Happiness: Felicidade, Alegria, Bem-estar
+Heritage: Herança, Patrimônio, Legado
+Heart: Coração, Ânimo, Sede
+Height: Altura, Estatura, Crescimento
+Hug: Abraço, Apreço, Enlace
+Horizon: Horizonte, Limite, Extensão
+Holiday: Feriado, Festa, Dia livre
+Hope: Esperança, Ânimo, Desejo
+Human: Humano, Pessoa, Ser humano
+Hot: Quente, Aquecido, Caloroso
+Honest: Honesto, Íntegro, Sincero
+Health: Saúde, Bem-estar, Condição física
+Harmony: Harmonia, Concordância, Equilíbrio
+Hospital: Hospital, Clínica, Sanatório
+Habit: Hábito, Costume, Rotina
+Harbor: Porto, Ancoradouro, Refúgio
+Hard: Difícil, Duro, Pesado
+Hasty: Apresado, Rápido, Apressado
+Hero: Herói, Mestre, Campeão
+Hungry: Faminto, Com fome, Necessitado
+History: História, Passado, Crônica
+Honor: Honra, Dignidade, Respeito
+Hilarious: Hilário, Engraçado, Cômico
+Happen: Acontecer, Ocorre, Passar
+Hawk: Falcão, Águia, Predador
+Hatch: Eclosão, Nascer, Abrir
+Harmful: Prejudicial, Perigoso, Dano
+Heed: Atentar, Ouvir, Considerar
+Host: Anfitrião, Hospedeiro, Organizador
+Hedge: Cerca viva, Muro de plantas, Arbusto
+Halt: Parar, Interromper, Suspender
+Hop: Pular, Saltitar, Saltar
+Hunters: Caçadores, Pessoas que caçam, Pesquisadores
+Huddle: Agolpar, Concentrar, Arremessar
+Hurt: Ferir, Doler, Machucar
+Humor: Humor, Comédia, Caráter
+Haunt: Assombrar, Ameçar, Visitar
+Hesitate: Hesitar, Vacilar, Indecisão
+Hurdle: Obstáculo, Barreira, Dificuldade
+Hatch: Eclosão, Nascer, Abrir
+Highlight: Destaque, Ponto alto, Êxito
+Hopeful: Esperançoso, Otimista, Confiante
+Hotdog: Cachorro-quente, Salsicha, Lanchar
+Hexagon: Hexágono, Seis lados, Figura geométrica
+Harm: Dano, Prejuízo, Perigo

@@ -1,0 +1,200 @@
+Took: pegou, levou, tirou
+Talk: conversar, falar, discutir
+Task: tarefa, incumbência, missão
+Table: mesa, tabela, planilha
+Talent: talento, habilidade, dom
+Tall: alto, elevado, grande
+Target: alvo, meta, objetivo
+Taste: sabor, gosto, paladar
+Team: equipe, time, grupo
+Teach: ensinar, instruir, educar
+Tear: rasgar, lacrimejar, dilacerar
+Technology: tecnologia, técnica, inovação
+Telephone: telefone, ligação, chamada
+Television: televisão, TV, aparelho
+Temperature: temperatura, calor, clima
+Temple: templo, santuário, capela
+Temporary: temporário, provisório, momentâneo
+Ten: dez, décimo, conjunto de dez
+Tender: terno, suave, delicado
+Term: termo, período, condição
+Test: teste, prova, exame
+Text: texto, mensagem, escrita
+Thank: agradecer, gratidão, reconhecer
+Theory: teoria, hipótese, suposição
+Thing: coisa, objeto, item
+Think: pensar, refletir, considerar
+Third: terceiro, parte de três, fração
+Thirst: sede, desejo, ânsia
+Thirteen: treze, décimo terceiro, número 13
+Thirty: trinta, trigésimo, número 30
+Threat: ameaça, risco, perigo
+Three: três, triplo, número 3
+Throw: lançar, arremessar, atirar
+Ticket: bilhete, ingresso, passagem
+Tie: amarrar, empatar, gravata
+Time: tempo, hora, momento
+Tiny: minúsculo, pequeno, diminuto
+Title: título, designação, nome
+Today: hoje, atualmente, nos dias de hoje
+Together: juntos, em conjunto, unidos
+Tomorrow: amanhã, futuro, dia seguinte
+Tone: tom, tonalidade, entonação
+Tool: ferramenta, instrumento, utensílio
+Top: topo, superior, cume
+Topic: tópico, assunto, tema
+Total: total, completo, absoluto
+Touch: tocar, contato, sensação
+Tough: difícil, resistente, duro
+Tour: passeio, excursão, viagem
+Town: cidade, vila, município
+Track: trilha, pista, caminho
+Trade: comércio, troca, negócio
+Tradition: tradição, costume, herança
+Traffic: tráfego, trânsito, circulação
+Train: trem, treinar, instruir
+Transfer: transferir, transmitir, mover
+Travel: viajar, deslocar, percorrer
+Treat: tratar, presentear, considerar
+Tree: árvore, vegetal, planta
+Trend: tendência, moda, direção
+Trial: julgamento, teste, tentativa
+Trip: viagem, passeio, excursão
+Trust: confiança, confiar, fé
+Truth: verdade, realidade, fato
+Turn: virar, girar, mudar
+Typical: típico, característico, comum
+Tablecloth: toalha de mesa, tecido, cobertura
+Tablet: comprimido, tablete, bloco
+Tail: cauda, rabo, extremidade
+Talentless: sem talento, inábil, incapaz
+Talkative: falador, comunicativo, tagarela
+Tangible: tangível, concreto, palpável
+Tank: tanque, reservatório, depósito
+Tap: torneira, toque, batida
+Targeted: direcionado, focado, visado
+Taskforce: força-tarefa, equipe especial, grupo
+Tasteful: de bom gosto, elegante, refinado
+Tattoo: tatuagem, desenho, marca
+Tax: imposto, taxa, tributo
+Teacher: professor, instrutor, educador
+Teamwork: trabalho em equipe, colaboração, cooperação
+Teaspoon: colher de chá, medida, dosagem
+Technical: técnico, especializado, específico
+Technique: técnica, método, abordagem
+Teenager: adolescente, jovem, menor
+Telephone: telefone, ligação, chamada
+Telepathy: telepatia, comunicação mental, percepção
+Temper: temperamento, humor, disposição
+Temple: templo, santuário, capela
+Temporary: temporário, provisório, passageiro
+Tenderness: ternura, delicadeza, suavidade
+Terrible: terrível, horrível, péssimo
+Territory: território, área, região
+Testimony: testemunho, depoimento, evidência
+Textbook: livro didático, manual, guia
+Thankful: grato, agradecido, reconhecido
+Theater: teatro, palco, auditório
+Theory: teoria, hipótese, conceito
+Therapist: terapeuta, psicólogo, conselheiro
+Thick: grosso, espesso, denso
+Thief: ladrão, assaltante, criminoso
+Thin: fino, magro, delgado
+Thinker: pensador, filósofo, intelectual
+Thirdly: em terceiro lugar, adicionalmente, além disso
+Thirsty: sedento, com sede, ansioso
+Threaten: ameaçar, intimidar, colocar em risco
+Thrill: emoção, excitação, arrepio
+Thrive: prosperar, florescer, desenvolver-se
+Ticket: bilhete, ingresso, multa
+Tight: apertado, justo, firme
+Tighten: apertar, firmar, ajustar
+Timber: madeira, vigas, material de construção
+Timekeeper: cronometrista, marcador de tempo, organizador
+Timeless: atemporal, eterno, clássico
+Timid: tímido, acanhado, reservado
+Tiny: minúsculo, pequeno, diminuto
+Tissue: tecido, lenço, material fino
+Title: título, nome, designação
+Toast: torrada, brinde, tostar
+Today: hoje, atualmente, nos dias de hoje
+Togetherness: união, companheirismo, proximidade
+Tolerance: tolerância, aceitação, paciência
+Tolerate: tolerar, suportar, aceitar
+Tomato: tomate, fruto, vegetal
+Tomorrow: amanhã, dia seguinte, futuro
+Tone: tom, tonalidade, entonação
+Toolbox: caixa de ferramentas, conjunto de utensílios, organizador
+Tooth: dente, peça dentada, estrutura óssea
+Topical: atual, relevante, temático
+Torch: tocha, lanterna, iluminação
+Tornado: tornado, furacão, ciclone
+Totality: totalidade, conjunto, inteiro
+Tourist: turista, visitante, viajante
+Tournament: torneio, competição, campeonato
+Tower: torre, estrutura, edifício alto
+Trace: traço, vestígio, sinal
+Track: trilha, pista, caminho
+Tradition: tradição, costume, prática cultural
+Traffic: tráfego, trânsito, circulação
+Tragedy: tragédia, desastre, calamidade
+Trail: trilha, rastro, caminho
+Train: trem, treinar, instruir
+Trainer: treinador, instrutor, preparador
+Training: treinamento, formação, capacitação
+Transaction: transação, operação, negociação
+Transfer: transferir, mover, deslocar
+Transformation: transformação, mudança, conversão
+Translate: traduzir, interpretar, converter
+Translation: tradução, interpretação, conversão
+Transmission: transmissão, envio, difusão
+Transparent: transparente, claro, nítido
+Transport: transporte, carregar, deslocar
+Trap: armadilha, truque, cilada
+Travel: viajar, deslocar-se, percorrer
+Treasure: tesouro, riqueza, bem precioso
+Treaty: tratado, acordo, pacto
+Treehouse: casa na árvore, abrigo elevado, estrutura suspensa
+Trend: tendência, moda, padrão
+Trial: julgamento, teste, tentativa
+Triangle: triângulo, forma geométrica, figura de três lados
+Tribe: tribo, clã, grupo étnico
+Trick: truque, artimanha, engano
+Trigger: gatilho, disparador, causa
+Trim: aparar, cortar, ajustar
+Trip: viagem, passeio, excursão
+Trophy: troféu, prêmio, conquista
+Tropical: tropical, quente, úmido
+Truck: caminhão, veículo de carga, transporte
+True: verdadeiro, real, autêntico
+Trust: confiar, confiança, fé
+Truth: verdade, realidade, fato
+Try: tentar, experimentar, esforçar-se
+Tube: tubo, cano, cilindro
+Tuesday: terça-feira, dia da semana, segundo dia útil
+Twelve: doze, número 12, dúzia
+Twenty: vinte, número 20, vigésimo
+Twice: duas vezes, em dobro, duplicado
+Twin: gêmeo, duplo, idêntico
+Twist: torcer, girar, virar
+Twitter: gorjear, rede social, piar
+Type: tipo, categoria, classificar
+Typical: típico, característico, comum
+Typo: erro de digitação, engano, falha
+Tyrant: tirano, déspota, opressor
+Tyranny: tirania, opressão, despotismo
+Tableware: utensílios de mesa, louça, talheres
+Tackle: enfrentar, abordar, lidar
+Tactful: diplomático, discreto, sensato
+Tangible: tangível, concreto, palpável
+Tangle: emaranhado, confusão, embaraço
+Tanktop: regata, camisa sem mangas, blusa leve
+Taper: afinar, estreitar, diminuir
+Targeting: direcionamento, foco, objetivo
+Tassel: borla, franjas, adorno
+Tavern: taverna, bar, taberna
+Taxpayer: contribuinte, pagador de impostos, cidadão tributário
+Teammate: colega de equipe, parceiro, companheiro
+Tearful: lacrimoso, choroso, emocionado
+Technicality: tecnicidade, detalhe técnico, aspecto específico
+Termination: término, finalização, encerramento

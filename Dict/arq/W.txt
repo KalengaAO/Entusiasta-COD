@@ -1,0 +1,83 @@
+Wait: Esperar, Aguardar, Pausa
+Wake: Acordar, Despertar, Vigília
+Walk: Caminhar, Andar, Passeio
+Wall: Parede, Muro, Barreira
+Want: Querer, Desejar, Necessitar
+Warm: Quente, Aconchegante, Amável
+Warn: Avisar, Alertar, Advertir
+Wash: Lavar, Limpar, Banhar
+Waste: Desperdício, Resíduo, Gastar
+Watch: Relógio, Observar, Vigiar
+Water: Água, Regar, Hidratar
+Wave: Onda, Acenar, Sinal
+Weak: Fraco, Débil, Insuficiente
+Wealth: Riqueza, Fortuna, Abundância
+Weapon: Arma, Instrumento, Ferramenta
+Wear: Vestir, Usar, Desgastar
+Weather: Clima, Tempo, Condição
+Web: Rede, Teia, Internet
+Wedding: Casamento, Núpcias, Cerimônia
+Week: Semana, Período, Ciclo
+Weight: Peso, Carga, Massa
+Welcome: Bem-vindo, Saudação, Acolhimento
+West: Oeste, Poente, Direção
+Wet: Molhado, Úmido, Encharcado
+Wheel: Roda, Volante, Giro
+Where: Onde, Local, Lugar
+While: Enquanto, Durante, Período
+Whisper: Sussurrar, Murmurar, Falar baixo
+White: Branco, Claro, Puro
+Whole: Inteiro, Completo, Total
+Wide: Largo, Amplo, Extenso
+Wife: Esposa, Cônjuge, Mulher
+Wild: Selvagem, Indomado, Natural
+Will: Vontade, Desejo, Testamento
+Win: Vencer, Ganhar, Conquistar
+Wind: Vento, Enrolar, Soprar
+Window: Janela, Abertura, Visão
+Wine: Vinho, Bebida, Uva
+Wing: Asa, Aileron, Extensão
+Winner: Vencedor, Campeão, Conquistador
+Winter: Inverno, Estação, Frio
+Wire: Fio, Cabo, Arame
+Wise: Sábio, Prudente, Inteligente
+Wish: Desejar, Querer, Esperar
+With: Com, Junto, Acompanhado
+Witness: Testemunha, Presenciar, Ver
+Woman: Mulher, Feminino, Dama
+Wonder: Maravilha, Surpresa, Curiosidade
+Wood: Madeira, Floresta, Lenha
+Word: Palavra, Termo, Vocábulo
+Work: Trabalho, Emprego, Atividade
+World: Mundo, Planeta, Universo
+Worry: Preocupar, Ansiedade, Afligir
+Worth: Valor, Importância, Mérito
+Worm: usado, gasto, desgastado, cansado, absoleto
+Wrap: Envolver, Embalar, Cobrir
+Write: Escrever, Redigir, Anotar
+Wrong: Errado, Incorreto, Injusto
+Wounds: Feridas,  Lesões, Mágoas , Traumas emocionais, Fere, Machuca
+Wreck: Naufrágio, Destino, Destruir
+Wrist: Pulso, Articulação, Junta
+Waffle: Waffle, Massa, Gofre
+Wander: Vagar, Perambular, Andar
+War: Guerra, Conflito, Luta
+Ward: Ala, Enfermaria, Proteção
+Warmth: Calor, Aconchego, Carinho
+Warrior: Guerreiro, Combatente, Lutador
+Washroom: Banheiro, Lavatório, Sanitário
+Wasteful: Desperdiçador, Ineficiente, Exagerado
+Watchful: Vigilante, Atento, Cauteloso
+Waterfall: Cachoeira, Queda d'água, Catarata
+Waterproof: Impermeável, Resistente à água, Vedado
+Weakness: Fraqueza, Debilidade, Vulnerabilidade
+Wealthy: Rico, Abastado, Próspero
+Weaponry: Armamento, Arsenal, Equipamento
+Wearable: Vestível, Portátil, Usável
+Weathered: Envelhecido, Desgastado, Sofrido
+Weave: Tecelagem, Trançar, Entrelaçar
+Wedding: Casamento, Núpcias, União
+Weekday: Dia da semana, Jornada, Rotina
+Weightless: Sem peso, Leve, Flutuante
+
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Dict
+Exec=/usr/lib/Dic/dic
+Icon=mydc.png
+Terminal=false
+Categories=Utility;
+
