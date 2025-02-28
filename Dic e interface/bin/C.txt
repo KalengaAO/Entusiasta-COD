@@ -1,0 +1,185 @@
+Cab: Táxi, Carro de aluguel, Veículo de transporte
+Cage: Cativeiro, Gaiola, Prisão
+Cake: Bolo, Massa, Camada
+Calculate: Calcular, Estimar, Avaliar
+Call: Chamar, Ligar, Apelidar
+Calm: Calmo, Tranquilo, Sereno
+Camera: Câmera, Aparelho fotográfico, Vídeo câmera
+Camp: Acampamento, Campo, Acampar
+Campaign: Campanha, Concurso, Mobilização
+Can: Pode, Lata, Poder
+Cancel: Cancelar, Anular, Revogar
+Candy: Doce, Balas, Confeitaria
+Cap: Boné, Tampa, Cobertura
+Capital: Capital, Dinheiro, Capital financeiro
+Captive: Cativo, Prisioneiro, Refém
+Capture: Capturar, Tomar, Prender
+Car: Carro, Automóvel, Veículo
+Card: Cartão, Cartão de visita, Cartão de memória
+Care: Cuidar, Cuidado, Atenção
+Career: Carreira, Profissão, Trajetória profissional
+Cargo: Carga, Frete, Mercadoria
+Carve: Esculpir, Cortar, Talhar
+Case: Caso, Caixa, Processo
+Cash: Dinheiro, Caixa, Numerário
+Cask: Barril, Tonel, Vasilhame
+Cast: Elenco, Gesso, Lançar
+Catch: Pegar, Capturar, Apanhar
+Cause: Causa, Motivo, Razão
+Caution: Cautela, Cuidado, Precaução
+Cave: Caverna, Buraco, Gruta
+Cease: Cessar, Parar, Interromper
+Celebrate: Celebrar, Comemorar, Festajar
+Cell: Célula, Celular, Gaiola
+Center: Centro, Ponto central, Foco
+Century: Século, Centúria, Período de 100 anos
+Ceremony: Cerimônia, Ritual, Comemoração
+Certain: Certo, Determinado, Específico
+Chain: Cadeia, Corrente, Encadeamento
+Chair: Cadeira, Assento, Presidência
+Chamber: Câmara, Sala, Compartimento
+Change: Mudar, Trocar, Alteração
+Channel: Canal, Canal de comunicação, Via
+Chaos: Caos, Desordem, Confusão
+Character: Caráter, Personagem, Característica
+Charge: Cobrar, Carga, Acusar
+Charity: Caridade, Beneficência, Instituição de caridade
+Charm: Encanto, Charme, Atração
+Chart: Gráfico, Tabela, Mapa
+Cheap: Barato, Econômico, Insignificante
+Check: Verificar, Cheque, Conferir
+Cheer: Aplaudir, Alegrar, Exultar
+Cheese: Queijo, Queijada, Coalhada
+Chef: Chefe de cozinha, Cozinheiro, Chef de cozinha
+Chemical: Químico, Produto químico, Elemento
+Cherish: Valorizar, Estimar, Apreciar
+Chess: Xadrez, Jogo de xadrez, Peças do xadrez
+Chick: Pintinho, Menina, Jovem
+Chief: Chefe, Líder, Comandante
+Child: Criança, Filho, Menino
+Choice: Escolha, Opção, Preferência
+Choke: Sufocar, Engasgar, Estrangular
+Choose: Escolher, Optar, Selecionar
+Chronic: Crônico, Persistente, Duradouro
+Chunk: Pedaço, Bloco, Fatia
+Church: Igreja, Culto, Congregação
+Cite: Citar, Referir, Mencionar
+Citizen: Cidadão, Habitante, Nacional
+City: Cidade, Metrópole, Urbano
+Civil: Civil, Cívico, Relativo à sociedade
+Claim: Reivindicar, Afirmação, Pedido
+Class: Classe, Turma, Categoria
+Classic: Clássico, Tradicional, Modelo
+Classify: Classificar, Categorizar, Organizar
+Claw: Garra, Pata, Unha
+Clean: Limpo, Limpar, Higienizar
+Clear: Claro, Transparente, Desimpedido
+Clever: Inteligente, Esperto, Hábil
+Click: Clicar, Clique, Estalo
+Client: Cliente, Usuário, Consumidor
+Cliff: Penhasco, Escarpa, Abismo
+Climb: Subir, Escalar, Aumentar
+Clinic: Clínica, Consultório, Estudo
+Clock: Relógio, Marca do tempo, Hora
+Close: Fechar, Próximo, Intimidade
+Cloth: Tecido, Pano, Roupagem
+Cloud: Nuvem, Nebulosa, Nuvem de dados
+Club: Clube, Bastão, Associação
+Clue: Dica, Pista, Indício
+Coast: Costa, Litoral, Viajar sem esforço
+Coat: Casaco, Pele, Camada
+Code: Código, Codificar, Sistema de regras
+Coffee: Café, Bebida, Grãos de café
+Coin: Moeda, Troco, Cédula
+Cold: Frio, Gelado, Resfriado
+Collect: Coletar, Recolher, Agregar
+College: Faculdade, Universidade, Instituição de ensino
+Color: Cor, Corante, Tinta
+Combine: Combinar, Unir, Mesclar
+Comfort: Conforto, Aconchego, Consolação
+Command: Comando, Ordem, Mandato
+Comment: Comentário, Observação, Opinião
+Commerce: Comércio, Comércio eletrônico, Negócios
+Commit: Cometer, Comprometer, Envolver
+Common: Comum, Popular, Público
+Communicate: Comunicar, Transmitir, Expressar
+Community: Comunidade, Grupo, Coletividade
+Company: Companhia, Empresa, Corporação
+Compare: Comparar, Contrastar, Avaliar
+Compete: Competir, Disputar, Rivalizar
+Complete: Completar, Concluir, Integral
+Complex: Complexo, Complicado, Sofisticado
+Complicate: Complicar, Tornar mais difícil, Enredar
+Component: Componente, Parte, Elemento
+Compose: Compor, Criar, Formar
+Concede: Conceder, Admitir, Reconhecer
+Concentration: Concentração, Foco, Intensidade
+Concept: Conceito, Ideia, Noção
+Concern: Preocupação, Interesse, Questão
+Concert: Concerto, Apresentação, Espectáculo
+Conclude: Concluir, Finalizar, Encerrar
+Concrete: Concreto, Real, Tangível
+Condition: Condição, Estado, Termo
+Conduce: Conduzir, Liderar, Orientar
+Confess: Confessar, Admitir, Revelar
+Confide: Confiar, Contar, Revelar
+Confidence: Confiança, Segurança, Certeza
+Confirm: Confirmar, Validar, Verificar
+Conflict: Conflito, Disputa, Guerra
+Confuse: Confundir, Desorientar, Misturar
+Connect: Conectar, Unir, Ligar
+Conscious: Consciente, Aware, Perceptivo
+Consequent: Consequente, Resultante, Derivado
+Consider: Considerar, Pensar, Avaliar
+Consist: Consistir, Compor, Conter
+Constant: Constante, Inalterado, Perpétuo
+Construct: Construir, Erigir, Criar
+Consult: Consultar, Pedir conselho, Buscar ajuda
+Consumer: Consumidor, Comprador, Cliente
+Contact: Contato, Comunicação, Ligação
+Contain: Contém, Incluir, Reprimir
+Content: Conteúdo, Satisfação, Tema
+Contest: Concurso, Competição, Disputa
+Continue: Continuar, Prosseguir, Seguir
+Contract: Contrato, Acordo, Contrair
+Contribute: Contribuir, Colaborar, Doar
+Control: Controle, Gerenciar, Dominio
+Convenient: Conveniente, Prático, Apropriado
+Converse: Conversar, Dialogar, Falar
+Convert: Converter, Transformar, Mudar
+Convince: Convencer, Persuadir, Cativar
+Cook: Cozinhar, Preparar, Chef
+Cool: Legal, Frio, Fresco
+Cooperate: Cooperar, Colaborar, Trabalhar juntos
+Copy: Copiar, Reprodução, Cópia
+Core: Núcleo, Centro, Essência
+Corn: Milho, Grão, Semente
+Corner: Canto, Esquina, Aresta
+Correct: Corrigir, Apropriado, Preciso
+Cost: Custo, Preço, Despesa
+Courage: Coragem, Valentia, Bravura
+Course: Curso, Rumo, Trajeto
+Court: Tribunal, Corte, Quadra
+Cover: Cobrir, Capa, Proteção
+Cow: Vaca, Animal de pasto, Ruminante
+Crack: Rachar, Fenda, Crack (droga)
+Craft: Artesanato, Habilidade, Ofício
+Crash: Colidir, Acidente, Queda
+Create: Criar, Gerar, Fazer
+Creature: Criatura, Ser, Animal
+Credit: Crédito, Louvor, Reconhecimento
+Crest: Ponta, Crista, Emblema
+Crew: Tripulação, Equipe, Grupo
+Crime: Crime, Delito, Transgressão
+Crisis: Crise, Emergência, Problema
+Critic: Crítico, Avaliador, Revisor
+Critical: Crítico, Essencial, Determinante
+Criticism: Crítica, Opinião, Análise
+Cross: Cruzar, Cruz, Interseção
+Crowd: Multidão, Público, Agitação
+Crown: Coroa, Realeza, Topo
+Cruise: Cruzeiro, Navegar, Viagem
+Cry: Chorar, Gritar, Lamento
+Cultural: Cultural, Relativo à cultura, Social
+Curious: Curioso, Interessado, Inusitado
+Curl: Enrolar, Cacho, Torcer

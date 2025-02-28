@@ -1,0 +1,200 @@
+Unequip: desarmar, desprover, descarregar
+Unanimous: unânime, concordante, coletivo
+Unaware: inconsciente, desatento, alheio
+Unbalance: desequilibrar, desajustar, desnivelar
+Unbeatable: imbatível, insuperável, invencível
+Unbelievable: inacreditável, incrível, surpreendente
+Unbiased: imparcial, neutro, objetivo
+Unbreakable: inquebrável, indestrutível, resistente
+Uncertain: incerto, duvidoso, instável
+Uncomfortable: desconfortável, incômodo, desagradável
+Uncommon: incomum, raro, excepcional
+Unconditional: incondicional, absoluto, irrestrito
+Uncontrolled: descontrolado, desenfreado, caótico
+Unconventional: não convencional, inusitado, inovador
+Undeniable: inegável, incontestável, indiscutível
+Underestimate: subestimar, menosprezar, desvalorizar
+Undergo: passar por, sofrer, experimentar
+Underrated: subestimado, subvalorizado, menosprezado
+Understood: entendido, compreendido, assimilado
+Undesirable: indesejável, inconveniente, desagradável
+Undoubtedly: indubitavelmente, certamente, inquestionavelmente
+Unequal: desigual, disparelho, assimétrico
+Unethical: antiético, imoral, incorreto
+Unexpected: inesperado, surpreendente, imprevisto
+Unfamiliar: desconhecido, estranho, pouco comum
+Unfinished: inacabado, incompleto, pendente
+Unforgivable: imperdoável, inaceitável, injustificável
+Unfortunate: infeliz, azarado, lamentável
+Unfriendly: hostil, antipático, pouco amigável
+Unhappy: infeliz, descontente, insatisfeito
+Unhealthy: não saudável, prejudicial, doentio
+Unimportant: insignificante, irrelevante, secundário
+Unimpressed: indiferente, desinteressado, cético
+Unique: único, exclusivo, singular
+United: unido, integrado, conjunto
+Universal: universal, geral, abrangente
+Unknown: desconhecido, anônimo, misterioso
+Unlimited: ilimitado, infinito, incondicional
+Unlucky: azarado, desafortunado, infeliz
+Unnecessary: desnecessário, supérfluo, inútil
+Unnoticed: despercebido, ignorado, negligenciado
+Unpleasant: desagradável, incômodo, chato
+Unreal: irreal, ilusório, fictício
+Unreliable: não confiável, instável, duvidoso
+Unseen: invisível, não visto, oculto
+Unstable: instável, volátil, precário
+Unsuccessful: mal sucedido, fracassado, ineficaz
+Unusual: incomum, estranho, peculiar
+Unwanted: indesejado, rejeitado, desnecessário
+Unwilling: relutante, hesitante, contrário
+Uplift: elevar, erguer, inspirar
+Upmost: máximo, extremo, supremo
+Upright: ereto, íntegro, correto
+Upset: chateado, perturbado, aborrecido
+Upstairs: no andar de cima, superior, alto
+Upstream: contra a corrente, ascendente, rio acima
+Urban: urbano, metropolitano, citadino
+Urgent: urgente, imediato, crucial
+Usage: uso, costume, aplicação
+Useful: útil, proveitoso, funcional
+Useless: inútil, ineficaz, sem propósito
+Usual: usual, habitual, comum
+Utensil: utensílio, ferramenta, instrumento
+Utility: utilidade, funcionalidade, serventia
+Utilize: utilizar, empregar, aplicar
+Utmost: extremo, máximo, absoluto
+Utopia: utopia, ideal, sonho
+Utter: total, absoluto, completo
+Utterance: declaração, enunciação, expressão
+Unanimity: unanimidade, consenso, acordo geral
+Unappreciated: não apreciado, desvalorizado, ignorado
+Unarmed: desarmado, indefeso, vulnerável
+Unbearable: insuportável, intolerável, exasperante
+Uncharted: inexplorado, desconhecido, não mapeado
+Uncivilized: incivilizado, bárbaro, primitivo
+Uncompromising: inflexível, rígido, firme
+Unconvincing: pouco convincente, duvidoso, fraco
+Undercover: disfarçado, secreto, clandestino
+Underhanded: desonesto, traiçoeiro, oculto
+Underprivileged: desfavorecido, carente, desprovido
+Underscore: sublinhar, enfatizar, destacar
+Undeserving: indigno, não merecedor, imerecido
+Undetected: não detectado, despercebido, oculto
+Understatement: eufemismo, minimização, atenuação
+Undress: despir, desvestir, desnudar
+Unexamined: não examinado, não verificado, negligenciado
+Unfit: inapto, inadequado, incapaz
+Unfounded: infundado, sem base, injustificado
+Ungrateful: ingrato, mal-agradecido, descuidado
+Unimaginable: inimaginável, inconcebível, impensável
+Uninhabited: desabitado, vazio, despovoado
+Unleash: liberar, desencadear, soltar
+Unorthodox: não ortodoxo, incomum, inconvencional
+Unquestionable: inquestionável, certo, indiscutível
+Unravel: desvendar, esclarecer, desembaraçar
+Unscathed: ileso, intacto, sem danos
+Unspoken: não dito, tácito, implícito
+Untouched: intocado, inalterado, puro
+Unveil: revelar, apresentar, descobrir
+Unworthy: indigno, sem mérito, desprezível
+Unwrap: desembrulhar, revelar, abrir
+Unzip: descompactar, desabotoar, abrir
+Ubiquitous: onipresente, difundido, espalhado
+Ulcer: úlcera, ferida, chaga
+Ulterior: oculto, disfarçado, futuro
+Ultimate: final, supremo, definitivo
+Ultimatum: ultimato, exigência, decisão final
+Ultra: ultra, extremo, excessivo
+Ultrasonic: ultrassônico, inaudível, de alta frequência
+Ultraviolet: ultravioleta, invisível, radiação UV
+Unabridged: integral, completo, sem cortes
+Unaccounted: não contabilizado, desaparecido, ignorado
+Unadvised: impensado, imprudente, precipitado
+Unaltered: inalterado, intacto, imutável
+Unarmed: desarmado, indefeso, vulnerável
+Unattractive: sem atrativo, feio, desinteressante
+Unattended: sem vigilância, abandonado, negligenciado
+Unavailing: inútil, ineficaz, infrutífero
+Unbeloved: não amado, desprezado, rejeitado
+Unbend: endireitar, relaxar, descontrair
+Unbind: desatar, soltar, libertar
+Unblemished: imaculado, perfeito, intacto
+Unbothered: despreocupado, indiferente, tranquilo
+Unbridled: desenfreado, sem controle, impulsivo
+Unburden: aliviar, desabafar, libertar-se
+Unbutton: desabotoar, abrir, soltar
+Uncanny: misterioso, estranho, sobrenatural
+Unceasing: incessante, contínuo, ininterrupto
+Unchain: libertar, desencadear, soltar
+Unclench: relaxar, afrouxar, soltar
+Unclouded: límpido, claro, transparente
+Uncoated: sem revestimento, cru, puro
+Uncoil: desenrolar, soltar, desdobrar
+Uncolored: incolor, neutro, sem pigmentação
+Uncombed: despenteado, desalinhado, desarrumado
+Uncommonplace: extraordinário, raro, excepcional
+Uncompleted: incompleto, inacabado, pendente
+Uncompressed: descomprimido, expandido, não reduzido
+Unconfirmed: não confirmado, incerto, duvidoso
+Unconnected: desconectado, separado, sem relação
+Unconscious: inconsciente, apagado, desmaiado
+Unconstructive: não construtivo, improdutivo, inútil
+Uncontested: incontestado, inquestionável, absoluto
+Uncooperative: não cooperativo, relutante, teimoso
+Uncork: desarrolhar, abrir, destampar
+Uncorrected: não corrigido, errado, defeituoso
+Uncreative: pouco criativo, banal, sem inspiração
+Undamaged: intacto, sem danos, preservado
+Undated: sem data, atemporal, indefinido
+Undeclared: não declarado, oculto, clandestino
+Underfed: subnutrido, desnutrido, faminto
+Underfoot: sob os pés, abaixo, inferior
+Undergarment: roupa íntima, peça de baixo, lingerie
+Underground: subterrâneo, clandestino, oculto
+Underhand: traiçoeiro, desonesto, oculto
+Underlined: sublinhado, enfatizado, destacado
+Underpants: cueca, roupa de baixo, calcinha
+Underpaid: mal pago, subvalorizado, explorado
+Underqualified: sem qualificação, despreparado, inexperiente
+Undersized: pequeno, reduzido, abaixo do normal
+Understaffed: com falta de funcionários, desfalcado, sobrecarregado
+Undervalued: subestimado, desvalorizado, menosprezado
+Underwater: subaquático, debaixo d’água, imerso
+Underweight: abaixo do peso, magro, leve
+Underworld: submundo, crime organizado, inferno
+Undisclosed: não revelado, secreto, confidencial
+Undisturbed: intocado, tranquilo, sem perturbação
+Uneducated: sem educação, ignorante, analfabeto
+Unequaled: inigualável, insuperável, incomparável
+Unequipped: despreparado, sem recursos, inadequado
+Unerring: infalível, certeiro, exato
+Unethical: antiético, imoral, incorreto
+Uneventful: monótono, sem acontecimentos, calmo
+Unexciting: sem emoção, sem graça, entediante
+Unexpectedly: inesperadamente, surpreendentemente, repentinamente
+Unexplainable: inexplicável, misterioso, sem justificativa
+Unfazed: imperturbável, tranquilo, indiferente
+Unfitted: inadequado, inapto, inapropriado
+Unfixable: irreparável, sem conserto, irremediável
+Unflattering: desfavorável, pouco lisonjeiro, ruim
+Unfolded: desdobrado, revelado, aberto
+Unforgettable: inesquecível, memorável, marcante
+Unforgiving: implacável, rígido, sem piedade
+Unfulfilled: insatisfeito, não realizado, incompleto
+Unharmed: ileso, sem danos, intacto
+Unhook: desenganchar, soltar, desprender
+Unhurried: sem pressa, calmo, tranquilo
+Unimpressive: sem destaque, sem impacto, fraco
+Unintended: não intencional, acidental, involuntário
+Uninvolved: desinteressado, distante, sem participação
+Unionize: sindicalizar, unir, organizar
+Unique: único, exclusivo, singular
+Unison: uníssono, harmonia, concordância
+Unitary: unitário, indivisível, único
+Unleaded: sem chumbo, puro, limpo
+Unmask: desmascarar, revelar, expor
+Unnatural: antinatural, estranho, forçado
+Unnoticed: despercebido, ignorado, negligenciado
+Unorthodox: não convencional, fora do comum, original
+Unspoiled: intocado, preservado, puro
