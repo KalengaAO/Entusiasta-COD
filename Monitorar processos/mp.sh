@@ -1,8 +1,8 @@
 #!/bin/bash
 
-LIM_CPU=50 # limite de consumo de CPU
-LIM_MEM=50 # limite de consumo de memória
-PROC_ZUMBI=0
+LIM_CPU=30 # limite de consumo de CPU
+LIM_MEM=30 # limite de consumo de memória
+PROC_ZUMBI=1
 
 echo "******************* MONITOR DE PROCESSOS *******************"
 printf "\n"
@@ -16,22 +16,22 @@ while true; do
 		awk '{print "Livre: " $4 "\tUsada: "$3 "\tTotal: " $2}')"
 
 	
-	ps -eo user,pid,%cpu,cmd,comm,start --sort=-%cpu | head -n 20 >> /dev/null
-	ps -eo user,pid,%mem,cmd,comm,start --sort=-%mem | head -n 20 >> /dev/null
+	ps -eo user,pid,%mem,start,cmd --sort=-%mem | head -n 20 >> /dev/null
+	ps -eo user,pid,%cpu,start,cmd --sort=-%cpu | head -n 20 >> /dev/null
 
-	while read -r  user pid cpu mem cmd comm start; do
+	while read -r  user pid cpu mem start cmd; do
 		if [[ $(echo " $cpu > $LIM_CPU " | bc -l ) -eq 1 ]]; then
 			echo -e "\n***Alerta de consumo da CPU: $cpu% ***" | tee -a alerta.log
-			notify-send "Alerta de consumo da CPU: $cpu%"
+			notify-send "Alerta de consumo da CPU"
 			echo -e "Usuário: $user \nPid: $pid \nIniciado em: $cmd" | tee -a alerta.log
-			echo -e "Comando: $comm \nHorário: $start" | tee -a alerta.log 
+			echo -e "Horário: $start" | tee -a alerta.log 
 		fi
 
 		if [[ $(echo " $mem > $LIM_MEM " | bc -l) -eq 1 ]]; then
 			echo -e "\n***Alerta de consumo da Memória: $mem% ***" | tee -a alerta.log
-			notify-send "Alerta de consumo da Memória: $mem"
+			notify-send "Alerta de consumo da Memória"
 			echo -e "Usuário: $user \nPid: $pid \nIniciado em: $cmd" | tee -a alerta.log
-			echo -e "Comando: $comm \nHorário: $start" | tee -a alerta.log
+			echo -e "Horário: $start" | tee -a alerta.log
 		fi
 	done < <(ps -eo user,pid,%cpu,%mem,cmd,comm,start --sort=-%cpu | tail -n +2) 
 

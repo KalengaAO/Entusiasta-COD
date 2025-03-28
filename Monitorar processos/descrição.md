@@ -34,12 +34,12 @@ virgulas por ponto isso permitindo que a soma seja da em ponto flutuante.
 ps -eo user,pid,%cpu,%mem,cmd,comm,start --sort=-%cpu
 ps -eo user,pid,%cpu,%mem,cmd,comm,start --sort=-%mem
 
-Nota: Está é a parte fundamental do script, listo os processos com ps \
-e as flags -e (everyone) lista todos os processos do sistema, incluindo \
-os de outros usuários, isso da uma vantagem em monitorar o roda em \
-todo sistema incluindo de outros usuário, a flags -o permite especificar \
-quais coluna quero capturar, neste caso capturo user,pid,cpu,mem,\
-cmd(de onde foi inicializado),comm (comando),start(hora, minito e seg que \
+Nota: Está é a parte fundamental do script, listo os processos com ps
+e as flags -e (everyone) lista todos os processos do sistema, incluindo
+os de outros usuários, isso da uma vantagem em monitorar o roda em
+todo sistema incluindo de outros usuário, a flags -o permite especificar
+quais coluna quero capturar, neste caso capturo user,pid,cpu,mem,
+cmd(de onde foi inicializado),comm (comando),start(hora, minito e seg que
 o processo foi inicializado)
 
 ### filtrando só processo com tail
