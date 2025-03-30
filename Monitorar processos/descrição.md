@@ -3,10 +3,18 @@ SAUDAÇÕES E AGRADECIMENTO PARA TODOS QUE AQUI CHEGARAM
 ******************************************************
 
 # A ideia é simples: Monitorar o sistema.
+O script monitoriza processos nos sistemas, desde o \
+consumo de CPU, Memória e Processos zumbi.
+
+O script é acompanhado de arquivos em C para testar \
+ao Criar processos zumbi, ao monitorizar a memória o \
+script também lida com vazamento de memória, não um \
+exemplo em C de vazamento de memória, porque o limite \
+de memória pode variar.
 
 A descrição vai ser detalhada para as partes essências \
 do script neste caso as duas primeiras variáveis são \
-descartadas o mesmo vale para o comando echo e todas linhas.
+descartadas o mesmo vale para o comando echo em todas linhas.
 
 ------------------------------------------------------------ 
 Atendo o uso do sistema basta alterar os valores na variáveis \
@@ -70,11 +78,24 @@ clica no link para ver umas dicas de instalação:
 https://www.dicas-l.com.br/arquivo/uma_dica_do_notify-send.php
 [não frequento este site, só achei ele explicativo e simples! so take care]
 
+### capturando processo zumbi
+top -bn1 | head -n 4 | grep "Tarefas" | awk '{print $11}' //
+usando o comando top listo os processo com uma saída única \
+capturando as primeiras 4 linhas de cabeçalho com o comando head, \
+o comando grep captura uma única linha de tarefas, " agora que faço \
+a descrição percebo que não necessário usar o head, somente o grep
+funcionária", depois capturo o campo $1 onde são enumerados os \
+processos zumbis. O uso do if é semelhante o uso feito anteriormente \
+dispensa explicações.
 
+### capturando o PID do processo zumbi e enviando sinal ao PPID
+Depois de capturar o processo zumbi, listo os processo e vou atrás \
+do PID do processo, os processo zumbi usando ps aux sempre são listado \
+com a descrição "defunct", uso esta string para capturar o processo \
+levando em conta que se há um processo PID, a também um processo PPID \
+que é seu pai decremento o PID e obtenho o PPID do processo pai, envio \ o sinal SIGCHLD para o PPID, mais está aritmética só funciona para \
+processo que só tem um filho, por está razão kill envia um sinal, caso \
+o zumbi continua no sistema a notificação com comando notify-send \
+continuará aparecer, e hora de mitigar manualmente o processo PPID.
 
-
-
-
-
-
-
+[5 segundo de actualização pode ser muito lento???]

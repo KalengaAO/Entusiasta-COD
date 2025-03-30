@@ -1,394 +1,132 @@
 
 ***Alerta de consumo da CPU: 100% ***
 Usuário: organon 
-Pid: 120216 
-Iniciado em: ps
-Comando: -eo 
-Horário: user,pid,%cpu,%mem,c ps              22:24:32
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 144356 
-Iniciado em: ps
-Comando: -eo 
-Horário: user,pid,%cpu,%mem,c ps              22:26:50
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 145884 
-Iniciado em: ps
-Comando: -eo 
-Horário: user,pid,%cpu,%mem,c ps              22:26:57
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 147412 
-Iniciado em: ps
-Comando: -eo 
-Horário: user,pid,%cpu,%mem,c ps              22:27:03
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 158048 
-Iniciado em: ps
-Comando: -eo 
-Horário: user,pid,%cpu,%mem,c ps              22:27:51
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 178030 
-Iniciado em: ps
-Comando: -eo 
-Horário: sex 28 mar 2025 22:40:44 WAT
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 202029 
-Iniciado em: ps
-Comando: -eo 
-Horário: sex 28 mar 2025 22:43:53 WAT
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 208010 
-Iniciado em: ps
-Comando: -eo user,pid,%cpu,%mem,c ps 
-Horário: sex 28 mar 2025 22:44:50 WAT
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 209715 
-Iniciado em: ps
-Comando: -eo user,pid,%cpu,%mem,c ps 
-Horário: sex 28 mar 2025 22:50:54 WAT
-
-***Alerta de consumo da CPU: 200 ***
-Usuário: organon 
-Pid: 211250 
-Iniciado em: ps
-Comando: -eo user,pid,%cpu,%mem,c ps 
-Horário: sex 28 mar 2025 22:51:01 WAT
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 211254 
-Iniciado em: ps
-Comando: -eo user,pid,%cpu,%mem,c ps 
-Horário: sex 28 mar 2025 22:51:01 WAT
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 212815 
-Iniciado em: ps
-Comando: -eo user,pid,%cpu,%mem,c ps 
-Horário: sex 28 mar 2025 22:51:07 WAT
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 215885 
-Iniciado em: ps
-Comando: -eo user,pid,%cpu,%mem,c ps 
-Horário: sex 28 mar 2025 22:51:21 WAT
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 215889 
-Iniciado em: ps
-Comando: -eo user,pid,%cpu,%mem,c ps 
-Horário: sex 28 mar 2025 22:51:21 WAT
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 216471 
-Iniciado em: ps
-Horário: 23:00
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 216475 
-Iniciado em: ps
-Horário: 23:00
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 216938 
-Iniciado em: ps
-Horário: 23:01
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 217267 
-Iniciado em: ps
-Horário: 23:03
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 217426 
-Iniciado em: ps
-Horário: 23:03
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 217430 
-Iniciado em: ps
-Horário: 23:03
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 217746 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 217908 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 217912 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 200 ***
-Usuário: organon 
-Pid: 218076 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 218237 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 218390 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 218549 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 218553 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 218717 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 200 ***
-Usuário: organon 
-Pid: 219167 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 219171 
-Iniciado em: ps
-Horário: 23:04
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 219486 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 219644 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 219801 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 200 ***
-Usuário: organon 
-Pid: 219958 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 219962 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 200 ***
-Usuário: organon 
-Pid: 220125 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 200 ***
-Usuário: organon 
-Pid: 220129 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 220585 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 220589 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 220755 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 220759 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 220926 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 221079 
-Iniciado em: ps
-Horário: 23:05
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 221237 
-Iniciado em: ps
-Horário: 23:06
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 221241 
-Iniciado em: ps
-Horário: 23:06
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 221558 
-Iniciado em: ps
-Horário: 23:06
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 221562 
-Iniciado em: ps
-Horário: 23:06
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 221823
-Horário: 23:10
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 221827
-Horário: 23:10
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 221997
-Horário: 23:10
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 222516
-Horário: 23:15
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 222520
-Horário: 23:15
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 222843
-Horário: 23:15
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 225579
-Horário: 23:19
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 225583
-Horário: 23:19
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 226213
-Horário: 23:19
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 226217
-Horário: 23:19
-
-***Alerta de consumo da CPU: 100 ***
-Usuário: organon 
-Pid: 226866
-Horário: 23:21
+Pid: 46052 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:34:37
 
 ***Alerta de consumo da CPU: 100% ***
 Usuário: organon 
-Pid: 236657 
-Iniciado em: ps
-Comando: -eo 
-Horário: user,pid,%cpu,%mem,c ps              23:33:53
+Pid: 46365 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:34:40
 
 ***Alerta de consumo da CPU: 100% ***
 Usuário: organon 
-Pid: 244533 
-Iniciado em: ps
-Horário: -eo user,pid,%cpu,%mem,c ps              23:37:09
+Pid: 46883 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:35:35
 
 ***Alerta de consumo da CPU: 100% ***
 Usuário: organon 
-Pid: 247615 
-Iniciado em: ps
-Horário: -eo user,pid,%cpu,%mem,c ps              23:37:31
+Pid: 47196 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:35:38
 
 ***Alerta de consumo da CPU: 100% ***
 Usuário: organon 
-Pid: 253746 
-Iniciado em: -eo user,pid,%cpu,%mem,c ps              23:39:35
-Horário: ps
+Pid: 47387 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:35:41
 
 ***Alerta de consumo da CPU: 100% ***
 Usuário: organon 
-Pid: 255281 
-Iniciado em: -eo user,pid,%cpu,%mem,c ps              23:40:23
-Horário: ps
+Pid: 47758 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:35:45
 
 ***Alerta de consumo da CPU: 100% ***
 Usuário: organon 
-Pid: 262873 
-Iniciado em: -eo user,pid,%cpu,%mem,c ps              23:43:15
-Horário: ps
+Pid: 48009 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:35:48
+
+***Alerta de consumo da CPU: 100% ***
+Usuário: organon 
+Pid: 48080 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:35:49
+
+***Alerta de consumo da CPU: 100% ***
+Usuário: organon 
+Pid: 48271 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:35:51
+
+***Alerta de consumo da CPU: 100% ***
+Usuário: organon 
+Pid: 48402 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 12:35:52
+
+***Alerta de consumo da CPU: 100% ***
+Usuário: organon 
+Pid: 4235 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 14:14:54
+
+***Alerta de consumo da CPU: 96.4% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
+
+***Alerta de consumo da CPU: 98.7% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
+
+***Alerta de consumo da CPU: 100% ***
+Usuário: organon 
+Pid: 4633 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 14:15:27
+
+***Alerta de consumo da CPU: 99.2% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
+
+***Alerta de consumo da CPU: 99.3% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
+
+***Alerta de consumo da CPU: 99.4% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
+
+***Alerta de consumo da CPU: 99.5% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
+
+***Alerta de consumo da CPU: 100% ***
+Usuário: organon 
+Pid: 4991 
+Iniciado em: ps -eo user,pid,%cpu,%mem,start,cmd --sort=-%cpu
+Horário: 14:15:55
+
+***Alerta de consumo da CPU: 99.5% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
+
+***Alerta de consumo da CPU: 98.5% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
+
+***Alerta de consumo da CPU: 92.0% ***
+Usuário: root 
+Pid: 4104 
+Iniciado em: /usr/bin/python3 /usr/bin/unattended-upgrade
+Horário: 14:14:47
